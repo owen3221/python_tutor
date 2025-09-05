@@ -50,31 +50,31 @@ def main():
     if greet("Alice") == "Hello, Alice!":
         score += 1
     else:
-        print("❌ greet('Alice') should return 'Hello, Alice!'")
+        print(" greet('Alice') should return 'Hello, Alice!'")
 
     # Test add
     if add(3, 4) == 7:
         score += 1
     else:
-        print("❌ add(3, 4) should return 7")
+        print(" add(3, 4) should return 7")
 
     # Test square
     if square(5) == 25:
         score += 1
     else:
-        print("❌ square(5) should return 25")
+        print(" square(5) should return 25")
 
     # Test c_to_f
     if abs(c_to_f(0) - 32.0) < 1e-6 and abs(c_to_f(100) - 212.0) < 1e-6:
         score += 1
     else:
-        print("❌ c_to_f conversion is wrong")
+        print(" c_to_f conversion is wrong")
 
     # Test is_even
     if is_even(4) is True and is_even(5) is False:
         score += 1
     else:
-        print("❌ is_even function is wrong")
+        print(" is_even function is wrong")
 
     # Test average
     if abs(average(4, 6) - 5.0) < 1e-6 and abs(average(10, 20) - 15.0) < 1e-6:
