@@ -10,18 +10,24 @@
 ## On terminal
    - open terminal
    - create
-    ```python
-    conda create -n <envir name> python=<version>
-    ```
+
+```bash
+conda create -n <envir name> python=<version>
+```
+
    - activate,you will enter the environment you created.
-    ```python
-    conda activate <envir name>
-    ```
+
+```bash
+conda activate <envir name>
+```
+
 
    - install some package
-    ```python
-    conda install numpy matplotlib pandas seaborn
-    ```
+
+```bash
+conda install numpy matplotlib pandas seaborn
+```
+
 
    
 
