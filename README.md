@@ -1,4 +1,9 @@
-# Install
+# python course
+- based on the harvard course 
+- https://www.youtube.com/watch?v=nLRL_NcnK-4
+
+
+# Install anaconda
 1. Go to https://www.anaconda.com/ to download anaconda.
 2. install anaconda
 
@@ -27,6 +32,12 @@ conda activate <envir name>
 ```bash
 conda install numpy matplotlib pandas seaborn
 ```
+
+# Update progress
+- 25.09.05 lec0 finished
+- 25.09.13 lec1 finished
+
+
 
 
    
