@@ -36,6 +36,7 @@ conda install numpy matplotlib pandas seaborn
 # Update progress
 - 25.09.05 lec0 finished
 - 25.09.13 lec1 finished
+- 25.09.20 lec2 finished
 
 
 
