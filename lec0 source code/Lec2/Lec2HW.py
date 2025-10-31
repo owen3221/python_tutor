@@ -2,6 +2,10 @@
 def sum_list_for(nums: list[int]) -> int:
     """Return the sum of nums using a for-loop (don't use built-in sum)."""
     # TODO
+    sum = 0
+    for i in nums:
+        sum += i
+    return sum
     raise NotImplementedError
 
 
