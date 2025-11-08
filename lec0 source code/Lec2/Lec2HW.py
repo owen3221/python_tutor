@@ -13,6 +13,7 @@ def sum_list_for(nums: list[int]) -> int:
 def index_value_pairs(lst: list) -> list[tuple[int, object]]:
     """Return [(index, value), ...] using for + range(len(lst))."""
     # TODO
+    
     raise NotImplementedError
 
 
